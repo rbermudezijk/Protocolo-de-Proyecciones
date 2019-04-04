@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RegionesFederales>
+    <Region nombre="Centro Norte">
+        <EntidadFederativa nombre="Aguascalientes">
+            <Capital>Aguascalientes</Capital>
+            <Propiedades>
+                <Propiedad tipo="ISO 3166-2">MX-AGU</Propiedad>
+            </Propiedades>
+            <RegionSocioeconomica nombre="El Bajío">
+                <Municipios>
+                    <Municipio>
+                        <Nombre>Aguascalientes</Nombre>
+                        <Coordenadas LA="21.8833" LO="-102.3"/>
+                        <DatosSocioEconomicos>
+                            <ConteoPoblacion año="1995">
+                                <conteo variable="Hombres" total="283536"/>
+                                <conteo variable="Mujeres" total="299291"/>
+                            </ConteoPoblacion>
+                            <ConteoPoblacion año="2005">
+                                <conteo variable="Hombres" total="349203"/>
+                                <conteo variable="Mujeres" total="373840"/>
+                            </ConteoPoblacion>
+                        </DatosSocioEconomicos>
+                    </Municipio>
+                    <Municipio>
+                        <Nombre>Asientos</Nombre>
+                        <Coordenadas LA="22.2333" LO="-102.0833"/>
+                        <DatosSocioEconomicos>
+                            <ConteoPoblacion año="1995">
+                                <conteo variable="Hombres" total="17954"/>
+                                <conteo variable="Mujeres" total="17808"/>
+                            </ConteoPoblacion>
+                            <ConteoPoblacion año="2005">
+                                <conteo variable="Hombres" total="19853"/>
+                                <conteo variable="Mujeres" total="20694"/>
+                            </ConteoPoblacion>
+                        </DatosSocioEconomicos>
+                    </Municipio>
+                    <Municipio>
+                        <Nombre>Calvillo</Nombre>
+                        <Coordenadas LA="21" LO="-102"/>
+                        <DatosSocioEconomicos>
+                            <ConteoPoblacion año="1995">
+                                <conteo variable="Hombres" total="25627"/>
+                                <conteo variable="Mujeres" total="26031"/>
+                            </ConteoPoblacion>
+                            <ConteoPoblacion año="2005">
+                                <conteo variable="Hombres" total="24018"/>
+                                <conteo variable="Mujeres" total="26165"/>
+                            </ConteoPoblacion>
+                        </DatosSocioEconomicos>
+                    </Municipio>
+                    <Municipio>
+                        <Nombre>Cosío</Nombre>
+                        <Coordenadas LA="22.3677" LO="-102.2997"/>
+                        <DatosSocioEconomicos>
+                            <ConteoPoblacion año="1995">
+                                <conteo variable="Hombres" total="5994"/>
+                                <conteo variable="Mujeres" total="6142"/>
+                            </ConteoPoblacion>
+                            <ConteoPoblacion año="2005">
+                                <conteo variable="Hombres" total="6540"/>
+                                <conteo variable="Mujeres" total="7147"/>
+                            </ConteoPoblacion>
+                        </DatosSocioEconomicos>
+                    </Municipio>
+                    <Municipio>
+                        <Nombre>Jesús María</Nombre>
+                        <Coordenadas LA="21.9611" LO="-102.3433"/>
+                        <DatosSocioEconomicos>
+                            <ConteoPoblacion año="1995">
+                                <conteo variable="Hombres" total="26909"/>
+                                <conteo variable="Mujeres" total="27567"/>
+                            </ConteoPoblacion>
+                            <ConteoPoblacion año="2005">
+                                <conteo variable="Hombres" total="40556"/>
+                                <conteo variable="Mujeres" total="42067"/>
+                            </ConteoPoblacion>
+                        </DatosSocioEconomicos>
+                    </Municipio>
+                    <Municipio>
+                        <Nombre>Pabellón de Arteaga</Nombre>
+                        <Coordenadas LA="22" LO="-102"/>
+                        <DatosSocioEconomicos>
+                            <ConteoPoblacion año="1995">
+                                <conteo variable="Hombres" total="15477"/>
+                                <conteo variable="Mujeres" total="16173"/>
+                            </ConteoPoblacion>
+                            <ConteoPoblacion año="2005">
+                                <conteo variable="Hombres" total="18799"/>
+                                <conteo variable="Mujeres" total="20113"/>
+                            </ConteoPoblacion>
+                        </DatosSocioEconomicos>
+                    </Municipio>
+                    <Municipio>
+                        <Nombre>Rincón de Romos</Nombre>
+                        <Coordenadas LA="22.2166" LO="-102.3166"/>
+                        <DatosSocioEconomicos>
+                            <ConteoPoblacion año="1995">
+                                <conteo variable="Hombres" total="19198"/>
+                                <conteo variable="Mujeres" total="19554"/>
+                            </ConteoPoblacion>
+                            <ConteoPoblacion año="2005">
+                                <conteo variable="Hombres" total="21918"/>
+                                <conteo variable="Mujeres" total="23553"/>
+                            </ConteoPoblacion>
+                        </DatosSocioEconomicos>
+                    </Municipio>
+                    <Municipio>
+                        <Nombre>San José de Gracia</Nombre>
+                        <Coordenadas LA="22.15" LO="-102.4166"/>
+                        <DatosSocioEconomicos>
+                            <ConteoPoblacion año="1995">
+                                <conteo variable="Hombres" total="3492"/>
+                                <conteo variable="Mujeres" total="3678"/>
+                            </ConteoPoblacion>
+                            <ConteoPoblacion año="2005">
+                                <conteo variable="Hombres" total="3600"/>
+                                <conteo variable="Mujeres" total="4031"/>
+                            </ConteoPoblacion>
+                        </DatosSocioEconomicos>
+                    </Municipio>
+                    <Municipio>
+                        <Nombre>Tepezalá</Nombre>
+                        <Coordenadas LA="22.2166" LO="-102.16"/>
+                        <DatosSocioEconomicos>
+                            <ConteoPoblacion año="1995">
+                                <conteo variable="Hombres" total="8100"/>
+                                <conteo variable="Mujeres" total="8075"/>
+                            </ConteoPoblacion>
+                            <ConteoPoblacion año="2005">
+                                <conteo variable="Hombres" total="8318"/>
+                                <conteo variable="Mujeres" total="9054"/>
+                            </ConteoPoblacion>
+                        </DatosSocioEconomicos>
+                    </Municipio>
+                    <Municipio>
+                        <Nombre>El Llano</Nombre>
+                        <Coordenadas LA="21.9166" LO="-101.9666"/>
+                        <DatosSocioEconomicos>
+                            <ConteoPoblacion año="1995">
+                                <conteo variable="Hombres" total="7268"/>
+                                <conteo variable="Mujeres" total="7010"/>
+                            </ConteoPoblacion>
+                            <ConteoPoblacion año="2005">
+                                <conteo variable="Hombres" total="8552"/>
+                                <conteo variable="Mujeres" total="8563"/>
+                            </ConteoPoblacion>
+                        </DatosSocioEconomicos>
+                    </Municipio>
+                    <Municipio>
+                        <Nombre>San Francisco de los Romo</Nombre>
+                        <Coordenadas LA="22" LO="-102"/>
+                        <DatosSocioEconomicos>
+                            <ConteoPoblacion año="1995">
+                                <conteo variable="Hombres" total="8769"/>
+                                <conteo variable="Mujeres" total="9067"/>
+                            </ConteoPoblacion>
+                            <ConteoPoblacion año="2005">
+                                <conteo variable="Hombres" total="14007"/>
+                                <conteo variable="Mujeres" total="14825"/>
+                            </ConteoPoblacion>
+                        </DatosSocioEconomicos>
+                    </Municipio>
+                </Municipios>
+            </RegionSocioeconomica>
+        </EntidadFederativa>
+    </Region>
+</RegionesFederales>

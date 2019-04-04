@@ -1,0 +1,289 @@
+Array
+(
+    [0] => Array
+        (
+            [nombreMunicipio] => Aguascalientes
+            [noConteosPoblacionales] => 2
+            [censosPoblacionales] => Array
+                (
+                    [0] => Array
+                        (
+                            [añoDelCenso] => 1995
+                            [poblacionHombres] => 283536
+                            [poblacionMujeres] => 299291
+                            [poblacionTotal] => 582827
+                        )
+
+                    [1] => Array
+                        (
+                            [añoDelCenso] => 2005
+                            [poblacionHombres] => 349203
+                            [poblacionMujeres] => 373840
+                            [poblacionTotal] => 723043
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [nombreMunicipio] => Asientos
+            [noConteosPoblacionales] => 2
+            [censosPoblacionales] => Array
+                (
+                    [0] => Array
+                        (
+                            [añoDelCenso] => 1995
+                            [poblacionHombres] => 17954
+                            [poblacionMujeres] => 17808
+                            [poblacionTotal] => 35762
+                        )
+
+                    [1] => Array
+                        (
+                            [añoDelCenso] => 2005
+                            [poblacionHombres] => 19853
+                            [poblacionMujeres] => 20694
+                            [poblacionTotal] => 40547
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [nombreMunicipio] => Calvillo
+            [noConteosPoblacionales] => 2
+            [censosPoblacionales] => Array
+                (
+                    [0] => Array
+                        (
+                            [añoDelCenso] => 1995
+                            [poblacionHombres] => 25627
+                            [poblacionMujeres] => 26031
+                            [poblacionTotal] => 51658
+                        )
+
+                    [1] => Array
+                        (
+                            [añoDelCenso] => 2005
+                            [poblacionHombres] => 24018
+                            [poblacionMujeres] => 26165
+                            [poblacionTotal] => 50183
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [nombreMunicipio] => Cosío
+            [noConteosPoblacionales] => 2
+            [censosPoblacionales] => Array
+                (
+                    [0] => Array
+                        (
+                            [añoDelCenso] => 1995
+                            [poblacionHombres] => 5994
+                            [poblacionMujeres] => 6142
+                            [poblacionTotal] => 12136
+                        )
+
+                    [1] => Array
+                        (
+                            [añoDelCenso] => 2005
+                            [poblacionHombres] => 6540
+                            [poblacionMujeres] => 7147
+                            [poblacionTotal] => 13687
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [nombreMunicipio] => Jesús María
+            [noConteosPoblacionales] => 2
+            [censosPoblacionales] => Array
+                (
+                    [0] => Array
+                        (
+                            [añoDelCenso] => 1995
+                            [poblacionHombres] => 26909
+                            [poblacionMujeres] => 27567
+                            [poblacionTotal] => 54476
+                        )
+
+                    [1] => Array
+                        (
+                            [añoDelCenso] => 2005
+                            [poblacionHombres] => 40556
+                            [poblacionMujeres] => 42067
+                            [poblacionTotal] => 82623
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [nombreMunicipio] => Pabellón de Arteaga
+            [noConteosPoblacionales] => 2
+            [censosPoblacionales] => Array
+                (
+                    [0] => Array
+                        (
+                            [añoDelCenso] => 1995
+                            [poblacionHombres] => 15477
+                            [poblacionMujeres] => 16173
+                            [poblacionTotal] => 31650
+                        )
+
+                    [1] => Array
+                        (
+                            [añoDelCenso] => 2005
+                            [poblacionHombres] => 18799
+                            [poblacionMujeres] => 20113
+                            [poblacionTotal] => 38912
+                        )
+
+                )
+
+        )
+
+    [6] => Array
+        (
+            [nombreMunicipio] => Rincón de Romos
+            [noConteosPoblacionales] => 2
+            [censosPoblacionales] => Array
+                (
+                    [0] => Array
+                        (
+                            [añoDelCenso] => 1995
+                            [poblacionHombres] => 19198
+                            [poblacionMujeres] => 19554
+                            [poblacionTotal] => 38752
+                        )
+
+                    [1] => Array
+                        (
+                            [añoDelCenso] => 2005
+                            [poblacionHombres] => 21918
+                            [poblacionMujeres] => 23553
+                            [poblacionTotal] => 45471
+                        )
+
+                )
+
+        )
+
+    [7] => Array
+        (
+            [nombreMunicipio] => San José de Gracia
+            [noConteosPoblacionales] => 2
+            [censosPoblacionales] => Array
+                (
+                    [0] => Array
+                        (
+                            [añoDelCenso] => 1995
+                            [poblacionHombres] => 3492
+                            [poblacionMujeres] => 3678
+                            [poblacionTotal] => 7170
+                        )
+
+                    [1] => Array
+                        (
+                            [añoDelCenso] => 2005
+                            [poblacionHombres] => 3600
+                            [poblacionMujeres] => 4031
+                            [poblacionTotal] => 7631
+                        )
+
+                )
+
+        )
+
+    [8] => Array
+        (
+            [nombreMunicipio] => Tepezalá
+            [noConteosPoblacionales] => 2
+            [censosPoblacionales] => Array
+                (
+                    [0] => Array
+                        (
+                            [añoDelCenso] => 1995
+                            [poblacionHombres] => 8100
+                            [poblacionMujeres] => 8075
+                            [poblacionTotal] => 16175
+                        )
+
+                    [1] => Array
+                        (
+                            [añoDelCenso] => 2005
+                            [poblacionHombres] => 8318
+                            [poblacionMujeres] => 9054
+                            [poblacionTotal] => 17372
+                        )
+
+                )
+
+        )
+
+    [9] => Array
+        (
+            [nombreMunicipio] => El Llano
+            [noConteosPoblacionales] => 2
+            [censosPoblacionales] => Array
+                (
+                    [0] => Array
+                        (
+                            [añoDelCenso] => 1995
+                            [poblacionHombres] => 7268
+                            [poblacionMujeres] => 7010
+                            [poblacionTotal] => 14278
+                        )
+
+                    [1] => Array
+                        (
+                            [añoDelCenso] => 2005
+                            [poblacionHombres] => 8552
+                            [poblacionMujeres] => 8563
+                            [poblacionTotal] => 17115
+                        )
+
+                )
+
+        )
+
+    [10] => Array
+        (
+            [nombreMunicipio] => San Francisco de los Romo
+            [noConteosPoblacionales] => 2
+            [censosPoblacionales] => Array
+                (
+                    [0] => Array
+                        (
+                            [añoDelCenso] => 1995
+                            [poblacionHombres] => 8769
+                            [poblacionMujeres] => 9067
+                            [poblacionTotal] => 17836
+                        )
+
+                    [1] => Array
+                        (
+                            [añoDelCenso] => 2005
+                            [poblacionHombres] => 14007
+                            [poblacionMujeres] => 14825
+                            [poblacionTotal] => 28832
+                        )
+
+                )
+
+        )
+
+)

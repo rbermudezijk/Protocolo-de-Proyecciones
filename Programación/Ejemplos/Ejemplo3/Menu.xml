@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menu>
+    <Comida>
+        <Nombre calorias="300">Sandwitch</Nombre>
+        <Precio iva="16%" neto="30.00" moneda="MXN"/>
+        <Tipo>Desayuno</Tipo>
+        <Disponibilidad>DISPONIBLE</Disponibilidad>
+    </Comida>
+    <Comida>
+        <Nombre calorias="1300">Chilaquiles</Nombre>
+        <Precio iva="16%" neto="70.00" moneda="MXN"/>
+        <Tipo>Desayuno</Tipo>
+        <Disponibilidad>DISPONIBLE</Disponibilidad>
+        <Extra>Incluye jugo de naranja</Extra>
+    </Comida>
+    <Comida>
+        <Nombre calorias="2500">Corte Americano Rib Eye</Nombre>
+        <Precio iva="16%" neto="500.00" moneda="MXN"/>
+        <Tipo>Comida</Tipo>
+        <Disponibilidad>DISPONIBLE</Disponibilidad>
+        <Extra>Incluye copa de vino tinto libre elección</Extra>
+        <Extra>Incluye sopa azteca o caldo tlapeño de entrada</Extra>
+    </Comida>
+    <Comida>
+        <Nombre calorias="2500">Brochetas de Camarón</Nombre>
+        <Precio iva="16%" neto="100.00" moneda="MXN"/>
+        <Tipo>Antojo</Tipo>
+        <Disponibilidad>AGOTADO</Disponibilidad>
+    </Comida>
+</Menu>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Regiones xmlns:m="http://smn.cna.gob.mx/es/xml">
+	<Region nombre="Noroeste">
+		<EntidadFederativa nombre="BajaCalifornia">
+		</EntidadFederativa>
+		<EntidadFederativa nombre="Sonora">
+			<RegionSocioeconomica nombre="Region I">
+				<Municipio>
+					<Nombre>Ciudad Obregon</Nombre>
+					<Coordenadas LA="27.4938" LO="-109.9388"/>
+					<CensoPoblacional>
+						<Habitantes>405000</Habitantes>
+					</CensoPoblacional>
+					<Instituciones>
+						<Institucion>
+							<Tipo codigo="N1">Gobierno</Tipo>
+							<Nombre>Ayuntamiento</Nombre>
+							<TelefonoContacto>6441436600</TelefonoContacto>
+							<Horario>de 9:00 am a 8:00 pm</Horario>
+						</Institucion>
+						<Institucion>
+							<Tipo codigo="SC1">Seguridad Civil</Tipo>
+							<Nombre>Prevencion y Seguridad Civil Zona Norte</Nombre>
+							<TelefonoContacto>6312095135</TelefonoContacto>
+							<Horario>24 horas</Horario>
+						</Institucion>
+						<Institucion>
+							<Tipo codigo="SC2">Oficina de Bomberos</Tipo>
+							<Nombre>Prevencion y Seguridad Civil Zona Sur</Nombre>
+							<TelefonoContacto>6444130580</TelefonoContacto>
+							<Horario>24 horas</Horario>
+						</Institucion>
+					</Instituciones>
+				</Municipio>
+			</RegionSocioeconomica>
+		</EntidadFederativa>
+	</Region>
+	<Region nombre="Noreste">
+	    <EntidadFederativa nombre="Nuevo León">
+		</EntidadFederativa>
+		<EntidadFederativa nombre="Coahuila">
+		</EntidadFederativa>
+		<EntidadFederativa nombre="Tamaulipas">
+		</EntidadFederativa>
+	</Region>
+	<Region nombre="Centro sur">
+		<EntidadFederativa nombre="Distrito Federal">
+		</EntidadFederativa>
+		<EntidadFederativa nombre="Estado de México">
+		</EntidadFederativa>
+		<EntidadFederativa nombre="Morelos">
+		</EntidadFederativa>
+	</Region>
+	<Region nombre="Oriente">
+		<EntidadFederativa nombre="Hidalgo">
+		</EntidadFederativa>
+		<EntidadFederativa nombre="Puebla">
+			<RegionSocioeconomica nombre="Huauchinango">
+			</RegionSocioeconomica>
+			<RegionSocioeconomica nombre="Teziutlán">
+			</RegionSocioeconomica>
+			<RegionSocioeconomica nombre="Region de Serdán">
+				<Municipio>
+					<Nombre>Ciudad Serdan</Nombre>
+					<Coordenadas LA="18.98" LO="-97.45"/>
+					<CensoPoblacional>
+						<Habitantes>23824</Habitantes>
+					</CensoPoblacional>
+					<Instituciones>
+						<Institucion>
+							<Tipo codigo="N1">Gobierno</Tipo>
+							<Nombre>Ayuntamiento</Nombre>
+							<TelefonoContacto>2454520058</TelefonoContacto>
+							<Horario>de 9:00 am a 5:00 pm</Horario>
+						</Institucion>
+						<Institucion>
+							<Tipo codigo="SC1">Hospital</Tipo>
+							<Nombre>Cruz Roja</Nombre>
+							<TelefonoContacto>2454520005</TelefonoContacto>
+							<Horario>24 horas</Horario>
+						</Institucion>
+						<Institucion>
+							<Tipo codigo="SC2">Oficina de Bomberos</Tipo>
+							<Nombre>Servicio de Bomberos</Nombre>
+							<TelefonoContacto>2222457392</TelefonoContacto>
+							<Horario>de 9:00 am a 7:00 pm</Horario>
+						</Institucion>
+					</Instituciones>
+				</Municipio>
+			</RegionSocioeconomica>
+		</EntidadFederativa>
+		<EntidadFederativa nombre="Tlaxcala">
+		</EntidadFederativa>
+		<EntidadFederativa nombre="Veracruz de Ignacio de la Llave">
+			<RegionSocioeconomica nombre="Region de la Huasteca">
+			</RegionSocioeconomica>
+			<RegionSocioeconomica nombre="Region Totonaca">
+			</RegionSocioeconomica>
+			<RegionSocioeconomica nombre="Region Centro - Norte">
+			</RegionSocioeconomica>
+			<RegionSocioeconomica nombre="Region Central">
+				<Municipio>
+					<Nombre>Xalapa</Nombre>
+					<Coordenadas LA="19.54" LO="-96.9275"/>
+					<CensoPoblacional>
+						<Habitantes>457614</Habitantes>
+					</CensoPoblacional>
+					<Instituciones>
+						<Institucion>
+							<Tipo codigo="N1">Gobierno</Tipo>
+							<Nombre>Ayuntamiento</Nombre>
+							<TelefonoContacto>2288421200</TelefonoContacto>
+							<Horario>de 9:00 am a 7:00 pm</Horario>
+						</Institucion>
+						<Institucion>
+							<Tipo codigo="SC1">Prevencion y Seguridad Civil</Tipo>
+							<Nombre>Unidad Estatal de Protección Civil de Xalapa</Nombre>
+							<TelefonoContacto>2288203170</TelefonoContacto>
+							<Horario>de 9:00 am a 7:00 pm</Horario>
+						</Institucion>
+						<Institucion>
+							<Tipo codigo="SC2">Oficina de Bomberos</Tipo>
+							<Nombre>Servicio de Bomberos</Nombre>
+							<TelefonoContacto>2288150080</TelefonoContacto>
+							<Horario>de 9:00 am a 7:00 pm</Horario>
+						</Institucion>
+					</Instituciones>
+				</Municipio>
+				<Municipio>
+					<Nombre>Coatepec</Nombre>
+				</Municipio>
+				<Municipio>
+					<Nombre>Xico</Nombre>
+				</Municipio>
+				<Municipio>
+					<Nombre>Perote</Nombre>
+				</Municipio>
+				<Municipio>
+					<Nombre>Altotonga</Nombre>
+				</Municipio>
+				<Municipio>
+					<Nombre>Alto Lucero</Nombre>
+				</Municipio>
+				<Municipio>
+					<Nombre>Jalacingo</Nombre>
+				</Municipio>
+				<Municipio>
+					<Nombre>Actopan</Nombre>
+				</Municipio>
+			</RegionSocioeconomica>
+		</EntidadFederativa>
+	</Region>
+	<Region nombre="Sureste">
+	</Region>
+</Regiones>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Alimentos>
+    <Frutas>
+        <Producto Unidad="Pz">
+            <Nombre>Sandía</Nombre>
+            <CostoUnidad>10.00</CostoUnidad>
+            <Disponibles>10</Disponibles>
+            <Calorías>1500</Calorías>
+        </Producto>
+        <Producto Unidad="Pz">
+            <Nombre>Melón</Nombre>
+            <CostoUnidad>50.00</CostoUnidad>
+            <Disponibles>1</Disponibles>
+            <Calorías>1500</Calorías>
+        </Producto>
+    </Frutas>
+    <Verduras>
+        <Producto Unidad="Kg">
+            <Nombre>Jitomate</Nombre>
+            <CostoUnidad>40.00</CostoUnidad>
+            <Disponibles>3</Disponibles>
+            <Calorías>300</Calorías>
+        </Producto>
+    </Verduras>
+    <Carnes>
+        <Producto unidad="Kg">
+            <Nombre>Res</Nombre>
+            <CostoKilo>160.00</CostoKilo>
+            <Disponibles>1</Disponibles>
+            <Calorías>500</Calorías>
+        </Producto>
+    </Carnes>
+</Alimentos>
