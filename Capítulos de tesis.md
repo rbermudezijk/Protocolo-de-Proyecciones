@@ -1,4 +1,4 @@
-#Protocolo de Proyecciones sobre Estructuras DOM
+# Protocolo de Proyecciones sobre Estructuras DOM
 
 1. Introducción
 2. Planteamiento del Problema
@@ -33,7 +33,7 @@
 10. Desarrollo futuro
     - Implementación sobre JSON
 
-#Apéndice: Problematica del desarrollo de la tecnología.
+# Apéndice: Problematica del desarrollo de la tecnología.
 
 1. Origen del problema de las proyecciones.
 2. No hay una necesidad objetiva de este lenguaje (Subjetivación de la realidad).
